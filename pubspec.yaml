@@ -56,54 +56,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/logo.jpg
-    - assets/ercıyes.jpg
-    - assets/sazlık2.jpg
-    - assets/tarih.jpg
-    - assets/tarih2.jpg
-    - assets/tarih3.jpg
-    - assets/tarih4.jpg
-    - assets/gdeveli.jpg
-    - assets/tur.jpg
-    - assets/sz1.jpg
-    - assets/sz2.jpg
-    - assets/sz3.jpg
-    - assets/sz4.jpg
-    - assets/s1.jpg
-    - assets/s2.jpg
-    - assets/s3.jpg
-    - assets/s4.jpg
-    - assets/ys1.jpg
-    - assets/ys2.jpg
-    - assets/ys3.jpg
-    - assets/ys4.jpg
-    - assets/m1.png
-    - assets/m2.jpg
-    - assets/m3.jpg
-    - assets/m4.jpg
-    - assets/g1.jpg
-    - assets/g2.jpg
-    - assets/g3.jpg
-    - assets/g4.jpg
-    - assets/cıvıklı.jpg
-    - assets/gacer.jpg
-    - assets/kabak.jpg
-    - assets/kavun.jpg
-    - assets/sucuk.jpg
-    - assets/cc1.jpg
-    - assets/cc2.jpg
-    - assets/cc3.jpg
-    - assets/gacer1.jpg
-    - assets/gacer2.jpg
-    - assets/kabak1.jpg
-    - assets/kabak2.jpg
-    - assets/kavun1.jpg
-    - assets/kavun2.jpg
-    - assets/sck1.jpg
-    - assets/sck2.jpeg
-    - assets/sck3.jpeg
-    - assets/back.jpg
-    - assets/dvl1.jpg
+    - assets/
+    
 
 
 
